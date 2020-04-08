@@ -3,17 +3,20 @@
 ## Chrome-Cracking-Tools written in python is specialized tool for extracting ones chrome PASSWORD, HISTORY and BOOKMARKS
 
 ### To Recover Password
-
+```python
 python Chrome_password.py -o text
+```
 (-o for output , check "help" option for more details)
 
 ### To Recover Bookmarks
-
+```python
 python Chrome_History.py -o text
+```
 
 ### To Recover Histories
-
+```python
 python Chrome_History.py -o text
+```
 
 ## Notes Regarding the usage
 
